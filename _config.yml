@@ -120,19 +120,19 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-        url: yasmina.md78@gmail.com
+        #url: yasmina.md78@gmail.com
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-        url: "https://twitter.com/yasmin_mdn"
+        #url: "https://twitter.com/yasmin_mdn"
     - label: "Linkdin"
       icon: "fab fa-fw fa-linkedin"
-        url: "https://www.linkedin.com/in/yasmin-madani-491898195"
+        #url: "https://www.linkedin.com/in/yasmin-madani-491898195"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-        url: "https://github.com/yasmin-mdn"
+        #url: "https://github.com/yasmin-mdn"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-        url: "https://instagram.com/yasmin.madanii"
+        #url: "https://instagram.com/yasmin.madanii"
 
 # Site Footer
 footer:
