@@ -13,7 +13,7 @@
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "plum" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US" 
@@ -113,7 +113,7 @@ author:
   location         : "Tehran"
   email            : yasmina.md78@gmail.com
   twitter: yasmin_mdn
-  linkedin: 
+  linkedin: yasmin-madani-491898195
   google_scholar: 
   github: yasmin-mdn
   instagram: yasmin.madanii
@@ -135,6 +135,9 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-linkedin"
       # url: "https://instagram.com/"
 
 # Site Footer
