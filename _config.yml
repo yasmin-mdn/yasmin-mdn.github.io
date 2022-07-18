@@ -13,11 +13,11 @@
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US" 
-title                    : "یاسمین مدنی"
+locale                   : "" 
+title                    : "Yasmin Madani"
 title_separator          : "-"
 name                     : "Yasmin" 
 description              : "Welcome to my web site."
@@ -111,7 +111,7 @@ author:
   avatar           : "/assets/images/bio.jpg"
   bio              : A computer engineering student at IUST who loves reading,writting,photography and learning new things!
   location         : "Tehran"
-  email            : yasmina.md78@gmail.com
+  email            : yasmin.madani.sh@gmail.com
   twitter: yasmin_mdn
   linkedin: yasmin-madani-491898195
   google_scholar: 
@@ -120,7 +120,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-        #url: yasmina.md78@gmail.com
+        #url: yasmin.madani.sh@gmail.com
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
         #url: "https://twitter.com/yasmin_mdn"
