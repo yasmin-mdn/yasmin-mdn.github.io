@@ -108,9 +108,9 @@ analytics:
 # Site Author
 author:
   name             : "Yasmin Madani"
-  avatar           : "/assets/images/bio.jpg"
-  bio              : A computer engineering student at IUST who loves reading,writting,photography and learning new things!
-  location         : "Tehran"
+  avatar           : "/assets/images/bio.JPEG"
+  bio              : Hey there! I’m Yasmin—currently doing my M.Sc. in Computing Science at the University of Alberta, diving into the world of AI in healthcare. I enjoy reading, writing, photography, good musics and discovering new things.
+  location         : "Canada"
   email            : yasmin.madani.sh@gmail.com
   twitter: yasmin_mdn
   linkedin: yasmin-madani-491898195
@@ -130,6 +130,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
         #url: "https://github.com/yasmin-mdn"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+        #url: "https://scholar.google.ca/citations?user=VBFLp8wAAAAJ&hl=en"     
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
         #url: "https://instagram.com/yasmin.madanii"
