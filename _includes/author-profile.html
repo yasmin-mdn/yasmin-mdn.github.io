@@ -160,6 +160,13 @@
           </a>
         </li>
       {% endif %}
+      {% if author.googlescholar %}
+        <li>
+          <a href="https://scholar.google.com/citations?user={{ author.googlescholar }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+            <i class="fab fa-fw fa-google-scholar" aria-hidden="true"></i> Google Scholar
+          </a>
+        </li>
+      {% endif %}
 
       {% if author.lastfm %}
         <li>
